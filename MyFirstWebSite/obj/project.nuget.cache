@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pr4B0JHilg0uY3AnFeSunSKBYmPXpLoq8oM9jarB8tFTP0p0/Yeq+OWs0kTEiQboMOMnFefEwutO1dVjmsD4+A==",
+  "success": true,
+  "projectFilePath": "/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/MyFirstWebSite.csproj",
+  "expectedPackageFiles": [
+    "/Users/fermayilhesenov/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/fermayilhesenov/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/fermayilhesenov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.18/microsoft.netcore.app.host.osx-arm64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

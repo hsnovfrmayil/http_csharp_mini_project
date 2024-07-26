@@ -1,0 +1,14 @@
+/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/bin/Debug/net7.0/MyFirstWebSite
+/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/bin/Debug/net7.0/MyFirstWebSite.deps.json
+/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/bin/Debug/net7.0/MyFirstWebSite.runtimeconfig.json
+/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/bin/Debug/net7.0/MyFirstWebSite.dll
+/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/bin/Debug/net7.0/MyFirstWebSite.pdb
+/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/obj/Debug/net7.0/MyFirstWebSite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/obj/Debug/net7.0/MyFirstWebSite.AssemblyInfoInputs.cache
+/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/obj/Debug/net7.0/MyFirstWebSite.AssemblyInfo.cs
+/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/obj/Debug/net7.0/MyFirstWebSite.csproj.CoreCompileInputs.cache
+/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/obj/Debug/net7.0/MyFirstWebSite.dll
+/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/obj/Debug/net7.0/refint/MyFirstWebSite.dll
+/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/obj/Debug/net7.0/MyFirstWebSite.pdb
+/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/obj/Debug/net7.0/MyFirstWebSite.genruntimeconfig.cache
+/Users/fermayilhesenov/Projects/MyFirstWebSite/MyFirstWebSite/obj/Debug/net7.0/ref/MyFirstWebSite.dll

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{58D64DDA-B65B-4D20-8006-80DC92512E3E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstWebSite/WebHost.cs">
+    <Files>
+      <File FileName="MyFirstWebSite/Program.cs" Line="21" Column="14" />
+      <File FileName="MyFirstWebSite/WebHost.cs" Line="45" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstWebSite" expanded="True">
+            <Node name="MyFirstWebSite" expanded="True">
+              <Node name="WebHost.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MyFirstWebSite PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
